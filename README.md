@@ -1,3 +1,5 @@
 # Otsu
 Otsu's Implementation
-otsu's method for threshold selection
+
+
+Give filename as 'example.jpg' or any other file format
