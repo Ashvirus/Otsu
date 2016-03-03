@@ -12,6 +12,6 @@ threshold automatically and also can be applied to several problems.Apart from
 that it has implementations in MATLAB.
 
 How to run the code:
-1. Open MATLAB and select the filepath where fn_otsu.m is stored.
+1. Open MATLAB and select the filepath where fn_Otsu.m is stored.
 2. Give filename as 'example.jpg'.
 3. Run your program.
